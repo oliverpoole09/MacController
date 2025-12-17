@@ -46,7 +46,7 @@ Prebuilt app avalible for macOS soon.
 
 ## Tutorial
 
-[![Tutorial Video](https://www.img.youtube.com/vi/_69DvTkMDfY/0.jpg)](https://www.youtube.com/watch?v=_69DvTkMDfY)
+[![Tutorial Video](https://img.youtube.com/vi/_69DvTkMDfY/0.jpg)](https://www.youtube.com/watch?v=_69DvTkMDfY)
 
 ## 📜 License
 
