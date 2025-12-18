@@ -34,6 +34,15 @@ Install Python 3.10.19 (venv):
 
 [Python Virtual Environment (venv) Guide](https://github.com/oliverpoole09/SetupVenv/blob/main/README.md)
 
+Instead of using `python3` use `python3.10`
+
+Full snippet:
+
+```bash
+python3.10 --version
+python3.10 -m venv venv
+```
+
 Install dependencies:
 
 ```bash
