@@ -10,6 +10,17 @@ Control your Mac with simple hand gestures! This Python program lets you interac
 
 ---
 
+## 📖 Table of Contents
+
+- [Features](#features)
+- [Installation](#installation)
+- [App Installation](#app-installation)
+- [Installing Packages](#installing-packages)
+- [Deactivating the Virtual Environment](#deactivating-the-virtual-environment)
+- [Deleting a Virtual Environment](#deleting-a-virtual-environment)
+
+---
+
 ## 🚀 Features
 
 - 🤏 Left Click and Right Click by using your pointer and middle fingers.
@@ -47,15 +58,24 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
+---
+
 ## 🖥️ App Installation
 
-See **Releases** for Mac app.
+1. Download the latest file compressed file from **Releases**.
+2. After uncompressing the file, open the app ControlMac.
+3. You will be prompted to Allow Camera Access and Accessability Settings.
+4. Watch tutorial below to get started.
 
-## Tutorial
+---
+
+## 🤔 Tutorial
 
 Here's a video I made that shows a demonstration on how to use the program.
 
 [![Tutorial Video](https://img.youtube.com/vi/GcP--4Sizpw/0.jpg)](https://www.youtube.com/watch?v=GcP--4Sizpw)
+
+---
 
 ## 📜 License
 
