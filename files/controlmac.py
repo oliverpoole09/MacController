@@ -6,7 +6,7 @@ import pyautogui
 import time
 
 # overlays for morse code chart
-overlay = cv2.imread("chart.png", cv2.IMREAD_UNCHANGED)
+overlay = cv2.imread("files/chart.png", cv2.IMREAD_UNCHANGED)
 overlay = cv2.resize(overlay, (0, 0), fx=2.0, fy=2.0)
 
 # mediapipe solutions
