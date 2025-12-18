@@ -10,6 +10,16 @@ Control your Mac with simple hand gestures! This Python program lets you interac
 
 ---
 
+## 📖 Table of Contents
+
+- [Features](#🚀-features)
+- [Installation](#📦-installation)
+- [App Installation](#🖥️-app-installation)
+- [Tutorial](#🤔-tutorial)
+- [License](#📜-license)
+
+---
+
 ## 🚀 Features
 
 - 🤏 Left Click and Right Click by using your pointer and middle fingers.
