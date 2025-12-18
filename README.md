@@ -49,7 +49,7 @@ pip install -r requirements.txt
 
 ## 🖥️ App Installation
 
-Prebuilt app avalible for macOS soon.
+See **Releases** for Mac app.
 
 ## Tutorial
 
