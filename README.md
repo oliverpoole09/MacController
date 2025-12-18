@@ -55,7 +55,7 @@ Prebuilt app avalible for macOS soon.
 
 Here's a video I made that shows a demonstration on how to use the program.
 
-[![Tutorial Video](https://img.youtube.com/vi/GcP--4Sizpw&list=PLJ8UnbMsVCDToSpPRBsYIJfRW4MFCWtm_/0.jpg)](https://www.youtube.com/watch?v=GcP--4Sizpw&list=PLJ8UnbMsVCDToSpPRBsYIJfRW4MFCWtm_)
+[![Tutorial Video](https://img.youtube.com/vi/GcP--4Sizpw/0.jpg)](https://www.youtube.com/watch?v=GcP--4Sizpw)
 
 ## 📜 License
 
