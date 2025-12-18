@@ -12,7 +12,7 @@ Control your Mac with simple hand gestures! This Python program lets you interac
 
 ## 📖 Table of Contents
 
-- [Features](#features)
+- [Features](#🚀 Features)
 - [Installation](#installation)
 - [App Installation](#app-installation)
 - [Installing Packages](#installing-packages)
