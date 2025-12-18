@@ -10,17 +10,6 @@ Control your Mac with simple hand gestures! This Python program lets you interac
 
 ---
 
-## 📖 Table of Contents
-
-- [Features](#🚀-Features)
-- [Installation](#installation)
-- [App Installation](#app-installation)
-- [Installing Packages](#installing-packages)
-- [Deactivating the Virtual Environment](#deactivating-the-virtual-environment)
-- [Deleting a Virtual Environment](#deleting-a-virtual-environment)
-
----
-
 ## 🚀 Features
 
 - 🤏 Left Click and Right Click by using your pointer and middle fingers.
